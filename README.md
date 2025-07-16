@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hello! I'm Mickael Reichert
 
-<!--
-**mickaelrei/mickaelrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm 21 years old and currently studying **CS (Computer Science)** at [IFC, Campus Blumenau](https://blumenau.ifc.edu.br/).
 
-Here are some ideas to get you started:
+💡 I like programming in general, but specifically Computer Graphics and Physics Simulations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 Technologies I work with:
+- Languages: `Python`, `C`, `C++`, `Dart`, `Golang`
+- Tools & Frameworks: `Git`, `Flutter`, `OpenGL`
+- Interests: Mathematics, Web Development, Competitive Programming
+
+---
+
+#### 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelrei&layout=compact&theme=dracula)
+
+---
+
+#### 📫 Contact me:
+- Email: `mickael.reichert@gmail.com`
+- LinkedIn: [https://www.linkedin.com/in/mickaelreichert/](https://www.linkedin.com/in/mickaelreichert/)
